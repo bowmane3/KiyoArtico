@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Entrega2.unity
+    path: Assets/_Scenes/Entrega2.unity
     guid: cd87784e992c2334cb7944a6fa55bb43
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e369e5da191c3cf47a46ef355452833a,
